@@ -1,0 +1,16 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: cornflowerblue;
+    transition: color 0.5s ease-in-out;
+    cursor: pointer;
+}
+
+.active{
+    color: tomato;
+}
+.sexy-fonts{
+    font: 100;
+}
